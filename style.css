@@ -198,7 +198,7 @@ nav button {
 .img {
     width: 280px;
     height: 400px;
-    background-image: url(../photos/pipe.jpg);
+    background-image: url(photos/pipe.jpg);
     background-size: cover;
     border-radius: 2rem;
 
@@ -1134,4 +1134,5 @@ footer {
     border-top: 1px solid #657981;
     text-align: center;
     background-color: #0B0F12;
+
 }
